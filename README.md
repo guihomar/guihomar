@@ -13,14 +13,14 @@ I'm a **Mining Engineer** passionate about **process optimization**, **automatio
 - 🔍 Focus areas: mining operations, process automation, and continuous improvement  
 - 🧰 Tools: Python, MinePlan, Deswik, Excel VBA, Git  
 - 💡 Enthusiast of innovative technologies and automation for operational excellence  
-- 📬 Contact me: <a href="mailto:guihomar.conde@gmail.com">guihomar.conde@gmail.com</a>
+
     
     </td>
 
-    <!-- Columna del GIF -->
+    <!-- Columna del Logo -->
     <td style="text-align: center; vertical-align: middle; border: none; background-color: transparent;">
       <a href="mailto:guihomar.conde@gmail.com">
-      <img src="https://github.com/guihomar/guihomar/blob/0529fedb5963300b83f8fc4fc3e2427e81421468/perfil.png" alt="Working Cat" width="460px" />
+      <img src="https://github.com/guihomar/guihomar/blob/d95de8b43d18b86f3a373b0203556072f27e10cc/perfil2.png" alt="Logo Perfil" width="460px" />
     </td>
   </tr>
 </table>
