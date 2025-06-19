@@ -19,7 +19,8 @@ I'm a **Mining Engineer** passionate about **process optimization**, **automatio
 
     <!-- Columna del GIF -->
     <td style="text-align: center; vertical-align: middle; border: none; background-color: transparent;">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Working Cat" width="160px" />
+      <a href="mailto:guihomar.conde@gmail.com">
+      <img src="https://github.com/guihomar/guihomar/blob/0529fedb5963300b83f8fc4fc3e2427e81421468/perfil.png" alt="Working Cat" width="460px" />
     </td>
   </tr>
 </table>
