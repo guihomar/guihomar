@@ -26,20 +26,6 @@ I'm a **Mining Engineer** passionate about **process optimization**, **automatio
 
 
 ---
-## 🧠 About Me
-
-<!-- Gato programador decorativo alineado a la derecha, pero separado del título -->
-<img align="right" width="180px" style="margin-top: 0px;" alt="Working Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-
-I'm a **Mining Engineer** passionate about **process optimization**, **automation**, and **data-driven decision-making**. I develop innovative solutions using **Python** and mining industry software such as **MinePlan** and **Deswik**, applying **Lean Six Sigma** principles to improve performance and efficiency.
-
-- 🔍 Focus areas: mining operations, process automation, and continuous improvement  
-- 🧰 Tools: Python, MinePlan, Deswik, Excel VBA, Git  
-- 💡 Enthusiast of innovative technologies and automation for operational excellence  
-- 📬 Contact me: <a href="mailto:guihomar.conde@gmail.com">guihomar.conde@gmail.com</a>
-
-
----
 
 ## 💼 Technical Skills
 
